@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meu Remédio</string>
+    <string name="tomei">Tomei</string>
+    <string name="parabens">Parabéns!</string>
+    <string name="remedio_nome">Aripiprazol</string>
+    <string name="remover_remedio">Remover Remédio</string>
+    <string name="adicionar_remedio">Adicionar Remédio</string>
+    <string name="detalhes">Detalhes</string>
+</resources>
